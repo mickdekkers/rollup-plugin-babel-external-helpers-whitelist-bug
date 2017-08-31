@@ -15,7 +15,7 @@ const build = async () => {
          * 
          * Try e.g. [`_typeof`] or []
          */
-        externalHelpersWhitelist: ['_typeof']
+        externalHelpersWhitelist: ['typeof']
       })
     ]
   })
